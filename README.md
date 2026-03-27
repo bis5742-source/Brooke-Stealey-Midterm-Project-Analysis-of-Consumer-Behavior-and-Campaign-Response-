@@ -107,9 +107,10 @@ Because of this, the findings should be interpreted as general patterns rather t
 To extend this project, I created an interactive Streamlit application that allows users to explore the dataset in a more dynamic way.
 
 The app includes:
-Filtering customers by income range
-Viewing a preview of filtered data
-Visualizing the relationship between income spending 
+
+- Filtering customers by income range
+- Viewing a preview of filtered data
+- Visualizing the relationship between income spending 
 
 This allows users to move beyond static graphs and interact with the data directly. By adjusting inputs and exploring different segments, users can better understand how behavior changes across different groups. For example, the scatter plot of income versus wine spending shows a general positive relationship, but also highlights variability in customer behavior. This reinforces the idea that while income plays a role, it is not the only factor influencing spending.
 
