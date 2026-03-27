@@ -85,7 +85,7 @@ Demographic variables such as age showed very little difference between responde
 
 ## Interpretation
 
-Overall, the results show that behavioral factors are much stronger predictors of campaign response than demographic characteristics. Customers who are already active, those who spend more and make more purchases, are the most likely to respond. On the other hand, customers who are less engaged or only casually browsing are much less likely to respond. This aligns with a behavioral perspective: people who are already interacting with a brand are more likely to continue that interaction.
+Overall, the results show that behavioral factors are much stronger predictors of campaign response than demographic characteristics. Customers who are already active, those who spend more and make more purchases, are the most likely to respond. On the other hand, customers who are less engaged or only casually browsing are much less likely to respond. This aligns with a behavioral perspective, where people who are already interacting with a brand are more likely to continue that interaction.
 
 ## Limitations
 
