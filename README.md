@@ -32,11 +32,11 @@ The main question guiding this project is:
 
 To break this down further, I explored several subquestions:
 
-Are higher-spending customers more likely to respond?
-Does frequent browsing actually lead to engagement, or just interest?
-Are deal-oriented customers more responsive to campaigns?
-Do demographic factors like age or household structure matter?
-Which types of spending are most associated with response?
+- Are higher-spending customers more likely to respond?
+- Does frequent browsing actually lead to engagement, or just interest?
+- Are deal-oriented customers more responsive to campaigns?
+- Do demographic factors like age or household structure matter?
+- Which types of spending are most associated with response?
 
 ## Methodology
 
