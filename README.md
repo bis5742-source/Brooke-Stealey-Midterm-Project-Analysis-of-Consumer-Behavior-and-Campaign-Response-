@@ -28,7 +28,7 @@ One limitation of the dataset is that it does not specify the exact nature of th
 
 The main question guiding this project is:
 
-What behavioral patterns are most associated with a customer’s likelihood to respond to marketing campaigns?
+**What behavioral patterns are most associated with a customer’s likelihood to respond to marketing campaigns?**
 
 To break this down further, I explored several subquestions:
 
