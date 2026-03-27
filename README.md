@@ -130,9 +130,9 @@ Finally, the findings highlight the importance of understanding customer behavio
 
 This project highlights the importance of understanding customer behavior when analyzing marketing effectiveness.
 The results suggest that:
-Active customers are more likely to respond
-Purchasing behavior is more important than browsing
-High-value customers are key targets for marketing
-Behavioral patterns matter more than basic demographics
+- Active customers are more likely to respond
+- Purchasing behavior is more important than browsing
+- High-value customers are key targets for marketing
+- Behavioral patterns matter more than basic demographics
 
 From a practical perspective, this means that businesses should focus on customers who are already engaged rather than relying solely on broad outreach strategies. From a personal perspective, this project reinforced my interest in behavioral analysis and how data can be used to better understand decision-making. Rather than just identifying trends, this approach allows for deeper insight into why customers behave the way they do.
