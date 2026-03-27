@@ -14,13 +14,13 @@ Instead of only looking at totals or averages, I focused on how patterns such as
 This project uses a retail customer dataset containing information on 2,240 individuals, with each row representing a single customer. 
 
 The dataset includes a wide range of variables, such as:
-Demographics (age, education, marital status)
-Household structure (number of children)
-Income
-Spending across different product categories (wine, meat, fruits, etc.)
-Purchasing behavior across channels (web, store, catalog)
-Website activity
-Campaign response (whether the customer responded to the most recent campaign)
+- Demographics (age, education, marital status)
+- Household structure (number of children)
+- Income
+- Spending across different product categories (wine, meat, fruits, etc.)
+- Purchasing behavior across channels (web, store, catalog)
+- Website activity
+- Campaign response (whether the customer responded to the most recent campaign) 
 
 One limitation of the dataset is that it does not specify the exact nature of the campaign itself. Because of this, the analysis focuses on general patterns of engagement rather than responses to a specific type of marketing strategy.
 
