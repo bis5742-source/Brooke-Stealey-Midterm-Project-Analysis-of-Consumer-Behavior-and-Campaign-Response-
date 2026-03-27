@@ -45,10 +45,10 @@ This project is based on exploratory data analysis (EDA) using Python. I began b
 ## Data Preparation
 
 Before conducting any analysis, I cleaned the dataset by:
-Removing rows with missing income values
-Converting date variables into usable datetime format
-Removing columns with no variation (constant values)
-Checking for duplicates
+- Removing rows with missing income values
+- Converting date variables into usable datetime format
+- Removing columns with no variation (constant values)
+- Checking for duplicates
 
 Income was especially important to retain because it plays a role in many behavioral comparisons, so rows missing income were removed to maintain consistency.
 
