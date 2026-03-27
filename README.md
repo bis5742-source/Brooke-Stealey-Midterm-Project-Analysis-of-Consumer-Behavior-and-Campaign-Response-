@@ -57,12 +57,19 @@ Income was especially important to retain because it plays a role in many behavi
 To better capture behavior, I created several new variables:
 
 Age: Calculated from year of birth
+
 Total Spending: Combined spending across all product categories
+
 Total Purchases: Combined purchases across web, store, and catalog
+
 Children at Home: Combined number of kids and teens
+
 Past Campaign Engagement: Total number of previously accepted campaigns
+
 Browsing vs Buying Ratio: Website visits divided by purchases
+
 Deal-Oriented Indicator: Whether a customer frequently purchases using deals
+
 These variables helped move the analysis beyond raw data and into more meaningful behavioral patterns.
 
 ## Key Findings
