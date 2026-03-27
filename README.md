@@ -99,7 +99,6 @@ There are several limitations to this analysis:
 The dataset does not specify the type of marketing campaign
 The analysis is observational and does not establish causation
 Some potentially important psychological factors (motivation/preferences) are not included
-There are some outliers and data limitations
 
 Because of this, the findings should be interpreted as general patterns rather than definitive conclusions.
 
