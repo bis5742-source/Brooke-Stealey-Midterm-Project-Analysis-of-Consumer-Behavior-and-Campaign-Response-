@@ -56,37 +56,37 @@ Income was especially important to retain because it plays a role in many behavi
 
 To better capture behavior, I created several new variables:
 
-Age: Calculated from year of birth
+**Age:** Calculated from year of birth
 
-Total Spending: Combined spending across all product categories
+**Total Spending:** Combined spending across all product categories
 
-Total Purchases: Combined purchases across web, store, and catalog
+**Total Purchases:** Combined purchases across web, store, and catalog
 
-Children at Home: Combined number of kids and teens
+**Children at Home:** Combined number of kids and teens
 
-Past Campaign Engagement: Total number of previously accepted campaigns
+**Past Campaign Engagement:** Total number of previously accepted campaigns
 
-Browsing vs Buying Ratio: Website visits divided by purchases
+**Browsing vs Buying Ratio:** Website visits divided by purchases
 
-Deal-Oriented Indicator: Whether a customer frequently purchases using deals
+**Deal-Oriented Indicator:** Whether a customer frequently purchases using deals
 
 These variables helped move the analysis beyond raw data and into more meaningful behavioral patterns.
 
 ## Key Findings
 
-1. Spending and Engagement:
+1. **Spending and Engagement:**
 One of the clearest patterns in the data is that customers who spend more are significantly more likely to respond to marketing campaigns. Higher total spending is associated with higher response rates, suggesting that more engaged or valuable customers are also more receptive to marketing. This supports the idea that active customers are already connected to the business, making them more likely to engage when targeted.
 
-2. Purchasing Behavior vs Browsing Behavior:
+2. **Purchasing Behavior vs Browsing Behavior:**
 A particularly interesting finding was the difference between browsing and purchasing behavior. Customers who frequently visit the website but do not make purchases tend to be less likely to respond to campaigns. In contrast, customers who convert visits into purchases are much more likely to engage. From a behavioral perspective, this suggests that action-based behavior (buying) is a stronger indicator of engagement than passive behavior (browsing).
 
-3. Deal-Oriented Customers:
+3. **Deal-Oriented Customers:**
 One surprising result was that deal-oriented customers were actually less likely to respond to campaigns. At first, it might seem like customers who look for deals would be more responsive to marketing. However, the data suggests that these customers may be more selective and only respond to very specific types of offers. This could mean that deal-oriented customers are not broadly engaged with the brand, but instead respond only when incentives meet their expectations.
 
-4. Income and Spending Patterns:
+4. **Income and Spending Patterns:**
 There is a clear positive relationship between income and spending. Higher-income customers tend to spend more, although there is still a wide variation in behavior. This suggests that while income influences purchasing power, it does not fully determine engagement or responsiveness.
 
-5. Demographics vs Behavior:
+5. **Demographics vs Behavior:**
 Demographic variables such as age showed very little difference between responders and non-responders. However, household structure had a more noticeable effect. Customers with fewer children at home were more likely to respond to campaigns. This may reflect differences in time, flexibility, or priorities, suggesting that lifestyle factors play a role in engagement.
 
 ## Interpretation
