@@ -1,4 +1,4 @@
-# Brooke-Stealey-Midterm-Project-Analysis-of-Consumer-Behavior-and-Campaign-Response-
+# Brooke-Stealey-Midterm-Project-
 Exploring how consumer behavior relates to marketing campaign response using Python-based EDA and an interactive Streamlit application.
 
 # Consumer Behavior and Campaign Response: A Behavioral Analysis
